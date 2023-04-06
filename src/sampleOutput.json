@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Why are Air Jordans so valuable?",
+    "description": "As the Ben Affleck movie Air premieres, starring Matt Damon and Viola Davis, the original sneakers are being auctioned. Ellie Violet Bramley explores the unstoppable rise of the ultimate cult shoe.",
+    "url": "https://www.bbc.com/culture/article/20230403-the-story-behind-the-most-iconic-sneakers-of-all-time",
+    "urlToImage": "https://ychef.files.bbci.co.uk/live/624x351/p0fdmmbp.jpg",
+    "publishedAt": "2023-04-04T17:22:23.2113183Z",
+    "content": "A lot of the marketing around the shoes was more like that of a car promotion, says DeLeon, who's not sure of the exact number of pairs he owns   he acquired five or six in the past month, and has so… [+1519 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "One in six people affected by infertility globally, says WHO",
+    "description": "A World Health Organisation report found treatment is underfunded in countries across the globe.",
+    "url": "http://www.bbc.co.uk/news/health-65180926",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C249/production/_129273794_gettyimages-1272954252.jpg",
+    "publishedAt": "2023-04-04T17:07:19.8106217Z",
+    "content": "A report from the World Health Organisation (WHO) has found one in six people around the world experience infertility.\r\nThere also appears to be little difference in rates across high, middle and low… [+1751 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Four things to watch for in Trump indictment charges",
+    "description": "Many questions are still unanswered about the charges the former US president could be facing.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65144742",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CDA6/production/_129164625_gettyimages-1051881922.jpg",
+    "publishedAt": "2023-04-04T16:07:17.5514009Z",
+    "content": "Media caption, Witch hunt or justice? US split on Trump indictment\r\nFormer US President Donald Trump is due to appear in a New York City courthouse on Tuesday.\r\nThis will be the moment when the crimi… [+4321 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US Speaker confirms meeting with Taiwan's Tsai despite China warnings",
+    "description": "Beijing has warned Washington it views such a meeting to be a provocation.",
+    "url": "http://www.bbc.co.uk/news/world-asia-65171561",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/48D6/production/_129264681_59ceba9c2bcaca24b98624ff75f035880d9149850_76_5184_29161000x563.jpg",
+    "publishedAt": "2023-04-04T15:52:24.4581458Z",
+    "content": "US House Speaker Kevin McCarthy has confirmed he will meet Taiwan's president Tsai Ing-wen in California this week, despite China's warning this could lead to \"serious confrontation\".\r\nMs Tsai will s… [+2685 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Khalid al-Jabouri: US says IS Europe attack planner killed in Syria strike",
+    "description": "Khalid al-Jabouri was the target of a strike on Monday that reportedly took place in Idlib province.",
+    "url": "http://www.bbc.co.uk/news/world-middle-east-65172448",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1334A/production/_129266687_mediaitem129265831.jpg",
+    "publishedAt": "2023-04-04T15:52:22.0507233Z",
+    "content": "The US military says a senior leader of the jihadist group Islamic State (IS) who was responsible for planning attacks in Europe has been killed in a strike in Syria. \r\nKhalid Aydd Ahmad al-Jabouri d… [+2220 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Irvo Otieno: Death of man in police custody ruled a homicide",
+    "description": "The 28-year-old died in March while being transferred from a jail to a mental health facility.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65176984",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/129D5/production/_129054267_microsoftteams-image-22.png",
+    "publishedAt": "2023-04-04T15:52:18.426624Z",
+    "content": "Media caption, Watch: Video shows man's death in police custody\r\nThe death of a man in police custody has been ruled a homicide by asphyxiation by Virginia officials following a formal autopsy.\r\nIrvo… [+3344 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Who are Russia's war bloggers and why are they popular?",
+    "description": "Vladlen Tatarsky, killed in a cafe blast, was one of Russia's \"war correspondents\". But who are they?",
+    "url": "http://www.bbc.co.uk/news/world-europe-65179954",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7B8B/production/_129272613_47ae791cf95d2e84596c38a38bd76addfdbd40be0_0_4860_31951000x657.jpg",
+    "publishedAt": "2023-04-04T15:07:18.3486052Z",
+    "content": "Vladlen Tatarsky, who died in an explosion in St Petersburg on Sunday, was one of Russia's \"war correspondents\". But who are these bloggers - and why are they popular?\r\nThe writers are a loose assort… [+4334 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Darya Trepova: Russia cafe bomb suspect charged with terrorism",
+    "description": "Darya Trepova was arrested on Monday after the St Petersburg killing of pro-war blogger Vladlen Tatarsky.",
+    "url": "http://www.bbc.co.uk/news/world-europe-65178006",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14B47/production/_129270848_mediaitem129270844.jpg",
+    "publishedAt": "2023-04-04T13:22:19.9228077Z",
+    "content": "A suspect in the killing of pro-war Russian blogger Vladlen Tatarsky has been charged with terrorism, Russian officials say.\r\nDarya Trepova was taken to a Moscow court on Tuesday after her arrest the… [+2507 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nato gathers to welcome Finland as 31st member",
+    "description": "Finland's flag will be raised at Nato as the length of Russia's border with member states is doubled.",
+    "url": "http://www.bbc.co.uk/news/world-europe-65173043",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/133AE/production/_129266787_30de34b37fb518782a5cf84704b050970d672abc102_952_4793_26961000x563.jpg",
+    "publishedAt": "2023-04-04T09:07:17.6629058Z",
+    "content": "The Finnish flag is due to be raised at Nato headquarters in Brussels, to mark Russia's western neighbour becoming the 31st member of the Western alliance.\r\nFinnish President Sauli Niinisto and the U… [+2418 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Watch stunning EarthCam clip of NYC lightning strike",
+    "description": "A massive bolt hit the tallest building in New York City, lighting up the night sky on Saturday.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65118225",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16022/production/_129264109_p0fdp67p.jpg",
+    "publishedAt": "2023-04-04T08:37:22.8484049Z",
+    "content": "Watch stunning EarthCam clip of NYC lightning strike. Video, 00:00:38Watch stunning EarthCam clip of NYC lightning strike"
+    }
+    ]
+    }
+    
